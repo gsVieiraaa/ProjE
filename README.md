@@ -1,4 +1,6 @@
 ![projeto](projeto.png)
 
-# Projeto 02
-  - Tela simples HTML/CSS
+# Projeto 01
+  - Inicio dos projetos para avaliação do estágio no exterior
+  - Html e CSS simples.
+  - Interface para leitura seguido de botão para contato (falta atribuição)
